@@ -72,8 +72,7 @@ Each folder contains:
 ##  Repository Structure
 
  
-# Generative-AI-Models
- 
+```plaintext
 Generative-AI-Models/
 │
 ├── Language_Translation_Transformer/
@@ -94,3 +93,5 @@ Generative-AI-Models/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
