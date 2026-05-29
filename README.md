@@ -69,15 +69,28 @@ Each folder contains:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
  
+# Generative-AI-Models
+ 
 Generative-AI-Models/
-├── Language_Translation_Transformer/     # Multi-language Translator
-├── Text_Summarization_T5/                # AI Summarizer Project
-├── UPI_Fraud_Detection/                  # Fraud Detection System
-├── notebooks/                            # Jupyter Notebooks
-├── models/                               # Saved Models
+│
+├── Language_Translation_Transformer/
+│   └── Multi-language Translator
+│
+├── Text_Summarization_T5/
+│   └── AI Summarizer Project
+│
+├── UPI_Fraud_Detection/
+│   └── Fraud Detection System
+│
+├── notebooks/
+│   └── Jupyter Notebooks
+│
+├── models/
+│   └── Saved Models
+│
 ├── requirements.txt
 ├── README.md
-└── .gitignore 
+└── .gitignore
