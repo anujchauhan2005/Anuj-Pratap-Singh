@@ -72,7 +72,7 @@ Each folder contains:
 ##  Repository Structure
 
  
-```plaintext
+```plaintext id="w4t8zp"
 Generative-AI-Models/
 │
 ├── Language_Translation_Transformer/
@@ -80,9 +80,6 @@ Generative-AI-Models/
 │
 ├── Text_Summarization_T5/
 │   └── AI Summarizer Project
-│
-├── UPI_Fraud_Detection/
-│   └── Fraud Detection System
 │
 ├── notebooks/
 │   └── Jupyter Notebooks
@@ -94,4 +91,6 @@ Generative-AI-Models/
 ├── README.md
 └── .gitignore
 ```
+
+
 
